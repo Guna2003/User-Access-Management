@@ -1,0 +1,5 @@
+com\access\controller\RegisterServlet.class
+com\access\model\User.class
+com\access\servlet\RegisterServlet.class
+com\access\util\DBUtil.class
+com\access\dao\UserDAO.class
